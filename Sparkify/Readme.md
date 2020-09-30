@@ -7,7 +7,8 @@ user churn by building a functional ETL pipeline.
 
 ### In This Repo:
 There is a file and a folder in this repository:
-1. Sparkify.ipynb: The Jupyter notebook containing all the work done for this project.
+1. Sparkify.ipynb: The Jupyter notebook containing all the work done for this project
 
 ### Further information:
-More information on the project can be read/seen in this accompanying Medium article.
+More information on the project can be read/seen in this accompanying 
+[Medium article](https://medium.com/@vakharia.hersh/predicting-user-churn-with-sparkify-d8ba5808a417)
