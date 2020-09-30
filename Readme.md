@@ -19,3 +19,8 @@ create visualizations to provide insights surrounding how much funding candidate
 #### Stock Market Data:
 Similar to the Election Data analysis, the goal of this project was to visualize relationships within the data using 
 univariate and bivariate graphs.
+
+#### Sparkify:
+This is one option for the Capstone Project for the Udacity Data Science NanoDegree. This
+project builds an ETL pipeline using Spark and uses Spark's ML functions to create a couple of
+models to be assessed on task of predicting user churn for a particular service.
